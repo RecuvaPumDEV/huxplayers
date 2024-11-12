@@ -37,11 +37,9 @@ Once installed, you can access the HuxPlayers interface through your server's ma
 - Contributing
 
 **We welcome contributions to the HuxPlayers addon! If you have suggestions, improvements, or bug fixes, please follow these steps:**
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and commit them with clear messages.
-- Push your changes to your forked repository.
-- Open a pull request to the main repository.
+- Star this repository
+- In the "Pull request" tab, just enter a proposal"
+- If it is a bug/error, please put it in the "Issues" tab
   
 ## License
 
