@@ -8,6 +8,7 @@ You agree that you will not:
 
 - **Resell**: You may not sell, lease, or otherwise transfer the HuxPlayers addon or any part of it to any third party.
 - **Distribute for Free**: You may not distribute the HuxPlayers addon for free or as part of any free service. This includes sharing, uploading to file-sharing sites, or any other form of distribution.
+- **Unauthorized Use**: You may not add the HuxPlayers addon to any control panel or server that you do not own or have explicit permission to use.
 
 ### 3. Modifications
 You may not modify, adapt, or create derivative works based on the HuxPlayers addon without prior written consent from the copyright holder.
