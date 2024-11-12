@@ -1,6 +1,6 @@
 # HuxPlayers
 
-![HuxPlayers Logo](https://addons.huxplay.eu/img/logo.png)
+<img src="https://addons.huxplay.eu/img/logo.png" alt="HuxPlayers Logo" width="200"/>
 
 ## Overview
 
@@ -24,3 +24,5 @@ To install the HuxPlayers addon, follow these steps:
 
    ```bash
    blueprint -install huxplayers
+   ```
+
