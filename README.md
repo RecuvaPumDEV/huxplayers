@@ -48,8 +48,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 **For support or inquiries, please reach out to the developer:**
 
-Developer: [RecuvaPumDEV](https://github.com/RecuvaPumDEV)
-Discord: [Join our Discord](https://discord.gg/Pjd53KEuKk)
-Website: [Visit website](https://addons.huxplay.eu/)
+- Developer: [RecuvaPumDEV](https://github.com/RecuvaPumDEV)
+- Discord: [Join our Discord](https://discord.gg/Pjd53KEuKk)
+- Website: [Visit website](https://addons.huxplay.eu/)
 
 **Thank you for using HuxPlayers!**
