@@ -1,6 +1,6 @@
 # HuxPlayers
 
-![HuxPlayers Logo](https://addons.huxplay.eu/img/huxplayaddons.png)
+![HuxPlayers Logo](https://addons.huxplay.eu/img/logo.png)
 
 ## Overview
 
