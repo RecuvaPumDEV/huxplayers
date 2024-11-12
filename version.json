@@ -1,5 +1,5 @@
 {
-    "version": "1.6",
+    "version": "1.5",
     "changelog": "### Changelog\n- Added new features\n- Fixed bugs\n- Improved performance\n",
     "install_instructions": "To update the HuxPlayers addon, download the latest version from [GitHub](https://github.com/RecuvaPumDEV/huxplayers) and upload the `huxplayers.blueprint` file to your Pterodactyl directory (usually `/var/www/pterodactyl`). Then, in your terminal (Putty, Termius, etc.), run the command:\n\n```\nblueprint -install huxplayers\n```"
 }
