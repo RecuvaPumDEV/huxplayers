@@ -18,7 +18,7 @@
 
 To install the HuxPlayers addon, follow these steps:
 
-1. **Download the latest version** from the [GitHub Releases](https://github.com/RecuvaPumDEV/huxplayers/releases) page.
+1. **Download the latest version** from [BuiltByBit](https://builtbybit.com/resources/huxplayers.54536).
 2. **Upload the `huxplayers.blueprint` file** to your Pterodactyl directory (usually located at `/var/www/pterodactyl`).
 3. **Open your terminal** (using Putty, Termius, etc.) and run the following command:
 
