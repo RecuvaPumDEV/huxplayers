@@ -25,4 +25,33 @@ To install the HuxPlayers addon, follow these steps:
    ```bash
    blueprint -install huxplayers
    ```
+4. Configure the addon as needed in your server settings.
+   
+## Usage
 
+Once installed, you can access the HuxPlayers interface through your server's management panel. From there, you can:
+
+- View real-time player data
+- Manage player permissions
+- Kick players as necessary
+- Contributing
+
+**We welcome contributions to the HuxPlayers addon! If you have suggestions, improvements, or bug fixes, please follow these steps:**
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them with clear messages.
+- Push your changes to your forked repository.
+- Open a pull request to the main repository.
+  
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+**For support or inquiries, please reach out to the developer:**
+
+Developer: [RecuvaPumDEV](https://github.com/RecuvaPumDEV)
+Discord: [Join our Discord](https://discord.gg/Pjd53KEuKk)
+Website: [Visit website](https://addons.huxplay.eu/)
+
+**Thank you for using HuxPlayers!**
