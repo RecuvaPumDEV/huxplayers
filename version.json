@@ -1,4 +1,4 @@
 {
-    "version": "1.5",
-    "changelog": "- Added new features\n- Fixed bugs\n- Improved performance\n"
+    "version": "1.6",
+    "changelog": "- Fixed saving API tokens\n"
 }
