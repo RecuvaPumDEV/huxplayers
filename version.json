@@ -1,4 +1,4 @@
 {
-    "version": "1.7",
-    "changelog": "- Modified api tokens, now everything runs on your page standalone\n"
+    "version": "1.8",
+    "changelog": "- Security system for API token\n"
 }
